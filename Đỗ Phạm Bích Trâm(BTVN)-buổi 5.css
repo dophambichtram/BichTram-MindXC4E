@@ -80,6 +80,7 @@
  }
  @media (max-width: 576px){
     .container{
+        height: auto;
         flex-direction: column-reverse;
     }
     .box1{
